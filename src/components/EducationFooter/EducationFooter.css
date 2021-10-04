@@ -1,0 +1,28 @@
+.container1{
+    background-color:black;
+    color: white;
+    padding: 10px;
+    border: 1px solid white ;
+    margin-top: 25px;
+}
+.icon{
+    color: #385898;
+    /* background: white; */
+    border-radius: 30px;
+    margin-right: 20px;
+}
+.icon1{
+    color: #143169;
+    /* background: white; */
+    border-radius: 30px;
+    margin-right: 20px;
+}
+.icon2{
+    color: red;
+    /* background: white; */
+    border-radius: 30px;
+    margin-right: 20px;
+}
+.icon-w{
+    cursor: progress;
+}

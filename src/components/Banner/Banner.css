@@ -1,0 +1,31 @@
+.banner {
+    background-image: url("https://lmsaddon.wpengine.com/wp-content/uploads/2014/06/course7-960x581.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 550px;
+    width: 1275px;
+    border-radius: 20px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .banner-title {
+    color: white;
+    font-weight: bold;
+    font-size: 62px;
+  }
+  .title-first-latter{
+      font-size: 90px;
+      color: #916b02;
+  }
+  .about-btn {
+    background-color: #4d3902;
+    outline: none;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+  }
+  .banner:hover{
+    cursor: pointer;
+  }

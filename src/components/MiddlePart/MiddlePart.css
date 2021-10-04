@@ -1,0 +1,30 @@
+.education-title{
+    color: #916b02;
+    font-size: 31px;
+}
+.edu-text{
+    color: #826653;
+    font-family: schoolbell;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    margin: 15px 0;
+    line-height: 25px;
+}
+.course-title{
+    padding-bottom: 35px;
+    color: #4b3803;
+}
+.card{
+    background: rgb(243, 239, 239);
+}
+.card:hover{
+    background: rgb(240, 239, 197);
+}
+.col:hover{
+    color: #916b02;
+    background: rgb(228, 233, 163);
+    box-shadow: 0 0 10px #795c0c, 0 0 40px #795c0c, 0 0 80px #795c0c;
+    transition: 1s;
+    cursor: pointer;
+}
